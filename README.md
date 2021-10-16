@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrykPora
-- 👀 I’m interested in JAVA SQL
-- 🌱 I’m currently learning JAVA SQL 
+- 👀 I’m interested in JAVA SPRING SQL
+- 🌱 I’m currently learning JAVA SPRING SQL 
 - 💞️ I’m looking to collaborate on projects, that help me to develop my knowledge as a developer
 - 📫 How to reach me email patryk_pora@o2.pl
 
