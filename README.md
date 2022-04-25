@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PatrykPora
-- 👀 I’m interested in JAVA SPRING SQL
-- 🌱 I’m currently learning JAVA SPRING SQL 
-- 💞️ I’m looking to collaborate on projects, that help me to develop my knowledge as a developer
-- 📫 How to reach me email patryk_pora@o2.pl
+Developer by passion. Recently absorbed by technologies like JAVA SPRING SQL
+You can reach me patryk_pora@o2.pl
 
 <!---
 PatrykPora/PatrykPora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
